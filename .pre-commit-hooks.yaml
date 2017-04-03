@@ -4,3 +4,4 @@
     entry: hindent
     language: system
     files: \.(hs|lhs)$
+    args: ['--indent-size 2', '--sort-imports']
