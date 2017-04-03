@@ -1,0 +1,6 @@
+-   id: hindent
+    name: hindent
+    description: Format files with hindent.
+    entry: hindent
+    language: system
+    files: \.(hs|lhs)$
