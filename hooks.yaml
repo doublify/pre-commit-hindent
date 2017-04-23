@@ -1,7 +1,6 @@
 -   id: hindent
     name: hindent
     description: Format files with hindent.
-    entry: hindent
-    language: system
+    entry: hindent.sh
+    language: script
     files: \.(hs|lhs)$
-    args: ['--sort-imports']
